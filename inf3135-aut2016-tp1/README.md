@@ -6,14 +6,12 @@ This program, written in C language, displays a mountain in ASCII format whose
 concaves are filled with water. You can specify the characters
 representing land and water during the display.
 
-The project was achieved in the course INF3135 *Construction et maintenance de 
-logiciels* in 2016 fall semester at the University of Quebec
-at Montreal.
+The project was achieved in the course *Construction et maintenance de logiciels*.
 
 
 ## Author
 
-Julie Chao-Jung WU (WUXC06628002)
+Julie Chao-Jung WU
 
 
 ## Operation
