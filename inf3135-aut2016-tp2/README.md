@@ -9,14 +9,13 @@ output format can be explicitly specifyed as `text`, `dot` (Graphviz) or `png`.
 An output file can be specified for the `text` and `dot` formats but it is 
 mandatory for the `png` format.
 
-The project was produced in the course INF3135 *Construction et maintenance de
-logiciels* in 2016 during the fall semester at the l'Université du Québec à 
-Montréal.
+The project was produced in the course *Construction et maintenance de
+logiciels*.
 
 ## Authors
-- Michael Tessier (TESM17069209)
-- Mathieu Loyer (LOYM17098908)
-- Julie Chao-Jung Wu (WUXC06628002)
+- Michael Tessier
+- Mathieu Loyer
+- Julie Chao-Jung Wu
 
 ## Supported Plateforms
 - Ubuntu 16.04 LTS: Fully supported.
